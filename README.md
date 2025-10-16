@@ -128,7 +128,7 @@ If you use this notebook, dataset, or model setup in your research or work, plea
 
 **BibTeX:**
 ```bibtex
-@misc{saleem2024braintumor,
+@misc{saleem2025braintumor,
   author = {Ayesha Saleem},
   title = {Brain Tumor Classification using Transfer Learning with VGG16},
   year = {2025},
